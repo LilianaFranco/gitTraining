@@ -1,0 +1,5 @@
+La interfaz de usuario es el espacio donde se producen las interacciones entre seres humanos y maquinas.
+Existen tres tipos de interfaces:
+-Interfaz de linea de comandos (CLI)
+-Interfaz grafica de usuario (GUI)
+-Interfaz nativa de usuario (NUI)
